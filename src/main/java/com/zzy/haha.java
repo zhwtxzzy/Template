@@ -6,4 +6,7 @@ package com.zzy;/**
  * @version 1.0
  */
 public class haha {
+    public static void main(String[] args) {
+        System.out.println("12");
+    }
 }
